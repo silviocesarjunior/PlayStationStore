@@ -1,4 +1,4 @@
-<h1 align="center"> CarModels Blog </h1>
+<h1 align="center"> PlayStation Store </h1>
 
 <p align="center">
 Site clone da PlayStore da Sony. <br/>
